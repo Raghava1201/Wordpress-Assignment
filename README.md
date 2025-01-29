@@ -47,5 +47,5 @@ https://wordpress.org/download/
 3.GitHub Actions configured for automated deployment
 4.A hosting platform/server for deployment
 
-## Step by Step process is updated in this github repo --> Document.txt
+## Step by Step process is updated in this github repo --> document.docx
 
